@@ -1,4 +1,5 @@
-package com.github.oksisane.FinchNav;
+package com.github.oksisane.FinchThingy;
+
 import edu.cmu.ri.createlab.terk.robot.finch.Finch;
 
 
